@@ -1,2 +1,2 @@
 # Simple-Calculator
-A simple calculator app build with the open source library Electron.
+Una aplicación de calculadora simple construida en la biblioteca de código abierto Electron.
